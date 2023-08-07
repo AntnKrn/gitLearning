@@ -4,7 +4,7 @@ add and commit added
 
 123
 
-GoodBye!
+Good morning! (from branch add-feature2)
 
 
 asdf
